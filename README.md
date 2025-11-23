@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Narne%20Dheeraj%20Balaram&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Data%20Scientist&descAlignY=60&descSize=25&animation=fadeIn" alt="Narne Dheeraj Balaram Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Narne%20Dheeraj%20Balaram&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Data%20Scientist&descAlignY=60&descSize=25&animation=fadeIn" alt="Narne Dheeraj Balaram Banner" width="100%" />
 </div>
-
 <div align="center">
   
   <a href="https://git.io/typing-svg">
@@ -9,7 +8,7 @@
   </a>
 
   <p>
-    <a href="https://linkedin.com/in/dheerajnarne">
+    <a href="https://www.linkedin.com/in/dheeraj-balaram-narne-526095259">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ndbdrive28@gmail.com">
